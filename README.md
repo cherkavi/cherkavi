@@ -5,7 +5,6 @@
   > real life examples of using docker images
 * https://github.com/cherkavi/solutions	
   > collection of solutions that combine different parts of python-utilities|bash-examples|ansible|docker-images....	
-* https://github.com/cherkavi/k8s-example
 * https://github.com/cherkavi/terraform
 * udacity cloudops
   * https://github.com/cherkavi/udacity-cloud-devops	
