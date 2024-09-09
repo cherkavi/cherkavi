@@ -1,4 +1,6 @@
-My own OpenSource activities:
+Goals of this resource:
+* to share my own good inventions and solutions with others as an input to global OpenSource community.
+* to remember what the roles I've played in the past.
 
 ## DevOps, DataOps, SRE,  AnyOps
 * https://github.com/cherkavi/cheat-sheet	
