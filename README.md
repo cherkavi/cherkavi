@@ -2,9 +2,22 @@ Goals of this resource:
 * to share my own good inventions and solutions with others as an input to global OpenSource community.
 * to remember what the roles I've played in the past.
 
+## Software Architect, Solution Architect, Enterprise Architect
+* https://github.com/cherkavi/enterprise-architect-toolbox	
+  > Toolbox for Enterpise Architect
+* https://github.com/cherkavi/investigation
+  > different type of investigation that I've done before starting any type (S-M-L-XL) of startup project
+* https://github.com/cherkavi/agile
+  > my own improvements for Scrum/LeSS/XP
+* https://github.com/cherkavi/excalidraw-archimate
+  > excalidraw archimate library
+
+
 ## DevOps, DataOps, SRE,  AnyOps
 * https://github.com/cherkavi/cheat-sheet	
   > collection of cheat sheets
+* https://github.com/cherkavi/bash-example	
+  > most used bash script building blocks
 * https://github.com/cherkavi/docker-images
   > real life examples of using docker images
 * https://github.com/cherkavi/solutions	
@@ -19,19 +32,7 @@ Goals of this resource:
     > AWS DevOps udacity nanodegree course. HomeTask "Github actions for EKS"	
 
 
-## Architecture
-* https://github.com/cherkavi/enterprise-architect-toolbox	
-  > Toolbox for Enterpise Architect
-* https://github.com/cherkavi/investigation
-  > different type of investigation that I've done before starting any type (S-M-L-XL) of startup project
-* https://github.com/cherkavi/agile
-  > my own improvements for Scrum/LeSS/XP
-* https://github.com/cherkavi/excalidraw-archimate
-  > excalidraw archimate library
-
-## Developers/DevOps
-* https://github.com/cherkavi/bash-example	
-  > most used bash script building blocks
+## Developer
 * https://github.com/cherkavi/python-utilities
   > utilities for making working life easier
 * https://github.com/cherkavi/javascripting	
