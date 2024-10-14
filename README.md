@@ -67,6 +67,8 @@ Goals of this resource:
   > notices after Mongo certification preparations
 
 ## Ready to use Applications
+* https://github.com/cherkavi/meeting-time-controller
+  > console application for controlling time on the meeting and stick to agenda points
 * https://github.com/cherkavi/networking-reminder	
   > console application to keep in touch with your personal connections	
 * https://github.com/cherkavi/step-executor
