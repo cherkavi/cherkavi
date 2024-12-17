@@ -7,13 +7,8 @@ Goals of this resource:
   > Toolbox for Enterpise Architect
 * https://github.com/cherkavi/investigation
   > different type of investigation that I've done before starting any type (S-M-L-XL) of startup project
-* https://github.com/cherkavi/agile
-  > my own improvements for Scrum/LeSS/XP
-* https://github.com/cherkavi/excalidraw-archimate
-  > excalidraw archimate library
 
-
-## DevOps, DataOps, SRE,  AnyOps
+## DevOps, SRE, DataOps, KOps ... 
 * https://github.com/cherkavi/cheat-sheet	
   > collection of cheat sheets
 * https://github.com/cherkavi/bash-example	
@@ -30,7 +25,6 @@ Goals of this resource:
     > home task project for Udacity course "Cloud DevOps Engineer"
   * https://github.com/cherkavi/udacity-github-cicd	
     > AWS DevOps udacity nanodegree course. HomeTask "Github actions for EKS"	
-
 
 ## Developer
 * https://github.com/cherkavi/python-utilities
@@ -76,6 +70,8 @@ Goals of this resource:
 * https://github.com/cherkavi/security
   > PHP application for displaying images ( and manage them ), which were uploaded to the FTP server from remote IP camera(s)
   > If you have IP-cameras, just activate FTP notifications about moving in front of it ( them ).
+* https://github.com/cherkavi/excalidraw-archimate
+  > excalidraw archimate library
 
 ## Collection of my old startups
 * https://github.com/cherkavi/bags-project	
